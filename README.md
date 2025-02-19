@@ -1,3 +1,4 @@
+HEAD
 # LorcanaAPI
 ## 📖 Description
 Ce projet est une API développée avec Laravel qui permet de gérer un système de collection de cartes. 
@@ -16,3 +17,4 @@ GET	/api/sets/{id}	Détails d'un set
 GET	/api/sets/{id}/cards	Cartes d'un set
 POST	/api/user/cards	Ajouter une carte à la collection
 GET	/api/user/cards	Voir les cartes possédées
+(Initialisation du projet Lorcana)
